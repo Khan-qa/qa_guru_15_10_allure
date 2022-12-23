@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 23 16:27:11 GMT 2022","Fri Dec 23 16:27:11 GMT 2022","809","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Fri Dec 23 16:27:11 GMT 2022","Fri Dec 23 16:27:13 GMT 2022","1989","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Fri Dec 23 16:27:13 GMT 2022","Fri Dec 23 16:27:13 GMT 2022","3","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testDynamicLabels","Создание Issue для фвторизованного пользователя",""
+"passed","Fri Dec 23 16:27:13 GMT 2022","Fri Dec 23 16:27:13 GMT 2022","2","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testStaticLabels","Создание Issue для фвторизованного пользователя",""
+"passed","Fri Dec 23 16:27:04 GMT 2022","Fri Dec 23 16:27:10 GMT 2022","6727","","qa.guru.allure.SelenideTest","","qa.guru.allure.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Fri Dec 23 16:27:18 GMT 2022","Fri Dec 23 16:27:20 GMT 2022","2241","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Fri Dec 23 16:27:13 GMT 2022","Fri Dec 23 16:27:18 GMT 2022","4600","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
